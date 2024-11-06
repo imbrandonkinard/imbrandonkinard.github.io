@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Food Recall News</title>
+    <link>https://imbrandonkinard.github.io</link>
+    <description>Stay updated with the latest food safety alerts and recalls!</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Nov 2024 10:00:00 GMT</lastBuildDate>
+    
+    <item>
+      <title>Savencia Cheese USA Announces an Expanded Voluntary Recall of Select Soft Ripened Cheeses</title>
+      <link>https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/savencia-cheese-usa-announces-expanded-voluntary-recall-select-soft-ripened-cheeses</link>
+      <description>
+        Savencia Cheese USA has expanded its voluntary recall of certain soft-ripened cheeses due to possible Listeria monocytogenes contamination. 
+        For more details, read the full recall notice.
+      </description>
+      <pubDate>Mon, 05 Oct 2024 10:00:00 GMT</pubDate>
+    </item>
+
+    <!-- More items can be added here -->
+  </channel>
+</rss>
